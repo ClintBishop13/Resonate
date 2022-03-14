@@ -1,5 +1,5 @@
 # Resonate
-Step 1: Download Zip
+Step 1: Download Zip \n
 Step 2: Extract Zip
 Step 3: Move into "react_website_resonate" folder
         eg. cd "react_website_resonate"
