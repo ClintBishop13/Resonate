@@ -49,6 +49,10 @@ function Contacts()
     <>
     <h1> Real world problem </h1>
         <h2>Click on a contact to view</h2>
+        <div className="form-control">
+        <input type="text" placeholder="Search Names" onChange={searchContacts}/>
+        </div>
+       
         <div className="cards__container">
             <div className="cards__wrapper">
                 <ul className="cards__items">
