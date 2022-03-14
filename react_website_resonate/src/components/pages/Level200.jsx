@@ -1,7 +1,7 @@
 import React from "react";
 import '../../App.css'
 import $ from 'jquery';
-import '/home/clintb/Documents/Real_world_problem/react_website_resonate/src/components/Questions.css'
+import '../Questions.css'
 
 
 function Level200()
