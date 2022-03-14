@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import { Link } from "react-router-dom";
 import '../../App.css'
-import "/home/clintb/Documents/Real_world_problem/react_website_resonate/src/components/Contacts.css"
+import "../Contacts.css"
 
 
 function Contacts()
