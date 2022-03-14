@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import '../../App.css'
 import { Link, useParams } from 'react-router-dom'
-import "/home/clintb/Documents/Real_world_problem/react_website_resonate/src/components/Contacts.css"
+import "../Contacts.css"
 
 function ViewContact() {
     var {contactId} = useParams();
