@@ -6,9 +6,16 @@
   h1 {
     text-align: center;
   }
-
-h2 {
+  h2 {
     text-align: center;
+  }
+
+  .form-control
+  {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
   }
   
   .cards__container {
