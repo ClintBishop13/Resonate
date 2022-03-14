@@ -48,7 +48,7 @@ function Contacts()
     return (
     <>
     <h1> Real world problem </h1>
-        <span>Click on a contact to view</span>
+        <h2>Click on a contact to view</h2>
         <div className="cards__container">
             <div className="cards__wrapper">
                 <ul className="cards__items">
